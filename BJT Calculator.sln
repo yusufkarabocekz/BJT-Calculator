@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJTCALC", "BJTCALC\BJTCALC.csproj", "{FEDB29C3-3613-40F2-B99C-823B3C8F7C13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJT Calculator", "BJTCALC\BJT Calculator.csproj", "{FEDB29C3-3613-40F2-B99C-823B3C8F7C13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
