@@ -1,0 +1,16 @@
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\bin\Debug\BJTCALC.exe.config
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\bin\Debug\BJTCALC.exe
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\bin\Debug\BJTCALC.pdb
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.Form1.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.exe
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.pdb
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.Fixed_Bias_Circuit.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.Emitter___Stabilized_Bias_Circuit.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.Voltage_Divider_Bias.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.DC_Bias_with_Voltage_Feedback.resources
+C:\Users\Yusuf\source\repos\BJTCALC\BJTCALC\obj\Debug\BJTCALC.PNP_Transistors.resources
